@@ -98,6 +98,7 @@ header {
 
 .portfolio-heading {
     text-align: center;
+	text-transform: uppercase;
 }
 
 .portfolio-photos {
@@ -138,6 +139,9 @@ hr {
 	clear: both;
 }
 
+.contact-header {
+	text-transform: uppercase;
+}
 
 .main-footer {
     font-size: 0.5em;
@@ -356,6 +360,10 @@ hr {
         width: 32%;
         margin: 5px;
      }
+	
+	.description-wrapper h2 {
+    font-size: 1.3em;
+}
 
     .clear-left {
         clear: none 
